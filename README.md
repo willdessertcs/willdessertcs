@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/SaucyGames05"><img src="https://api.daily.dev/devcards/f068af1fcee24cd08d731bbcaabb71b7.png?r=rhz" width="400" alt="William Dessert's Dev Card"/></a>
+<a href="https://app.daily.dev/SaucyGames05"><img src="https://github.com/willdessertcs/willdessertcs/blob/main/devcard.svg" width="400" alt="thelaziestdev's Dev Card"/></a>
 
 - 👋 Hi, I’m @willdessertcs
 - 👀 I’m interested in Computer Science and Engineering
